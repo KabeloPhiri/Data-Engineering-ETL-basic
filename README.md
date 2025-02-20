@@ -9,3 +9,6 @@ Basic ETL process to showcase the ETL process of pulling data from an API to Loa
     4. Continuously fetches, formats, and inserts data into the SQL Server table every second for 3 minutes.
         str: A message indicating that data has been streamed.
 
+strem_data.py
+   |___ sql_server_stream.py
+
